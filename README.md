@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naviz</h1>
 <h3 align="center">An Pre-final year IT Engineering student from Gujarat, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveeez10&label=Profile%20views&color=0e75b6&style=flat" alt="naveeez10" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveeez10" alt="naveeez10" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iam_viz" target="blank"><img src="https://img.shields.io/twitter/follow/iam_viz?logo=twitter&style=for-the-badge" alt="iam_viz" /></a> </p>
@@ -12,6 +10,8 @@
 - 💬 Ask me about **Data structures and Algorithms, Python, C++ and Data Analytics.**
 
 - 📫 How to reach me **20itnav068@ldce.ac.in**
+
+- ⚡ Fun fact **I love watching sitcoms.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveeez10&show_icons=true&locale=en" alt="naveeez10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveeez10&" alt="naveeez10" /></p>
-
