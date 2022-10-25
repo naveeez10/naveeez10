@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/iam_viz" target="blank"><img src="https://img.shields.io/twitter/follow/iam_viz?logo=twitter&style=for-the-badge" alt="iam_viz" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Django.**
+- 🌱 I’m currently learning **Flutter.**
 
 - 💬 Ask me about **Data structures and Algorithms, Python, C++ and Data Analytics.**
 
