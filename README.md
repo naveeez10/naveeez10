@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/iam_viz" target="blank"><img src="https://img.shields.io/twitter/follow/iam_viz?logo=twitter&style=for-the-badge" alt="iam_viz" /></a> </p>
 
-- 🌱 I’m currently working with **Flutter**
+- 🌱 I’m currently working with **Flutter & Go**
 
 - 💬 Ask me about **Data structures and Algorithms, Python, C++ and Data Analytics.**
 
 - 📫 How to reach me **20itnav068@ldce.ac.in**
 
-- ⚡ Fun fact **I love watching sitcoms.**
+- ⚡ Fun fact **I love watching sitcoms, F1 and playing chess.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
