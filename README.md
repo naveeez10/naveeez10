@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Naviz</h1>
-<h3 align="center">An Pre-final year IT Engineering student from Gujarat, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveeez10&label=Profile%20views&color=0e75b6&style=flat" alt="naveeez10" /> </p>
 
